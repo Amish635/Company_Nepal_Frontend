@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+public/Postgres-2.8.2-13-14-15-16-17.dmg
+
+
+echo "# Company_Nepal_Frontend" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Amish635/Company_Nepal_Frontend.git
+git push -u origin main
