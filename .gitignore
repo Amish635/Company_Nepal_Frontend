@@ -48,4 +48,4 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Amish635/Company_Nepal_Frontend.git
-git push -u origin main
+git push -u origin mainpublic/*.dmg
