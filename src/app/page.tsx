@@ -66,7 +66,7 @@ export default function Home() {
             href="/categories/electronics"
             className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition"
           >
-            View All Electronics
+            View All Electronics →
           </Link>
 
         </section>
@@ -77,7 +77,7 @@ export default function Home() {
             href="/categories/fashion"
             className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition"
           >
-            View All Fashion
+            View All Fashion →
           </Link>
         </section>
         <section>
@@ -87,7 +87,7 @@ export default function Home() {
             href="/categories/home-garden"
             className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition"
           >
-            View All Home & Garden
+            View All Home & Garden →
           </Link>
         </section>
         <section>
@@ -97,7 +97,7 @@ export default function Home() {
             href="/categories/beauty"
             className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition"
           >
-            View All Beauty
+            View All Beauty →
           </Link>
         </section>
 
